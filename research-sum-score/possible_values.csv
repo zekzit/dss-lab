@@ -1,0 +1,391 @@
+stay:DEC-FEB
+stay:JUN-AUG
+stay:MAR-MAY
+stay:SEP-NOV
+length_of_stay:1-7
+length_of_stay:8-15
+length_of_stay:>15
+review_group:Business
+review_group:Couple
+review_group:Family
+review_group:Group
+review_group:Solo
+country:Antarctica
+country:Argentina
+country:Australia
+country:Austria
+country:Bahrain
+country:Bangladesh
+country:Belarus
+country:Belgium
+country:Brazil
+country:Bulgaria
+country:Cambodia
+country:Canada
+country:China
+country:Colombia
+country:Croatia
+country:Cyprus
+country:Czech Republic
+country:Denmark
+country:Egypt
+country:Estonia
+country:Finland
+country:France
+country:Georgia
+country:Germany
+country:Greece
+country:Hong Kong
+country:Hungary
+country:India
+country:Indonesia
+country:Iran (Islamic Republic of)
+country:Ireland
+country:Israel
+country:Italy
+country:Japan
+country:Jordan
+country:Kazakhstan
+country:Kenya
+country:Korea (Republic of)
+country:Kuwait "country:Lao People's Democratic Republic", 'country:Latvia
+country:Lebanon
+country:Luxembourg
+country:Macao
+country:Malaysia
+country:Malta
+country:Mexico
+country:Morocco
+country:Myanmar
+country:Nepal
+country:Netherlands
+country:New Zealand
+country:Norway
+country:Oman
+country:Pakistan
+country:Peru
+country:Philippines
+country:Poland
+country:Portugal
+country:Qatar
+country:Romania
+country:Russian Federation
+country:Saudi Arabia
+country:Senegal
+country:Serbia
+country:Singapore
+country:Slovakia
+country:South Africa
+country:Spain
+country:Sri Lanka
+country:Sweden
+country:Switzerland
+country:Syrian Arab Republic
+country:Taiwan, Province of China
+country:Thailand
+country:Turkey
+country:Ukraine
+country:United Arab Emirates
+country:United Kingdom of Great Britain and Northern Ireland
+country:United States of America
+country:Venezuela (Bolivarian Republic of)
+country:Viet Nam
+room_type:1 Bedroom Apartment with Sea View
+room_type:1 Bedroom Suite Water View
+room_type:1 bedroom studio
+room_type:1 bedroom suite
+room_type:2 Bedroom Pool Suite
+room_type:2 Single Beds Non-Smoking
+room_type:2 bedroom apartment with balcony
+room_type:2 bedroom family suite
+room_type:2 bedroom villa near the pool
+room_type:2 bedroom, poolside
+room_type:2-Bedroom Sea View Villa with Pool
+room_type:3 bedroom villa with swimming pool
+room_type:4 bedroom villa with pool
+room_type:Angsana Pool Residence 3 Bedroom Pool Villa
+room_type:Bamboo Pool Villa
+room_type:Bay Room King
+room_type:Bay Room Twin
+room_type:Bay View Villa with Private Pool
+room_type:Beach Front Suite
+room_type:Beach Suite
+room_type:Beachfront Pool Villa
+room_type:Bed in 10-Bed Mixed Dormitory Room
+room_type:Beyond Deluxe Double or Twin Room with Sea View
+room_type:Cape Superior
+room_type:Club Ocean View 1 King Bed
+room_type:Contemporary Thai Grand Deluxe
+room_type:Deluxe
+room_type:Deluxe 1 Bedroom Apartment
+room_type:Deluxe Apartment
+room_type:Deluxe Balcony
+room_type:Deluxe Double
+room_type:Deluxe Double Bed with Bathtub
+room_type:Deluxe Double Bedroom
+room_type:Deluxe Double Pool View
+room_type:Deluxe Double Room
+room_type:Deluxe Double Room (Free Round Trip Airport Transfer)
+room_type:Deluxe Double Room with Balcony
+room_type:Deluxe Double Room with Partial Sea View
+room_type:Deluxe Double Room with Pool Access
+room_type:Deluxe Double Room with Sea View
+room_type:Deluxe Double Room with Spa Bath
+room_type:Deluxe Double Sea View
+room_type:Deluxe Double or Twin
+room_type:Deluxe Double or Twin - Paradise Wing
+room_type:Deluxe Double or Twin Room
+room_type:Deluxe Double or Twin Room - Transfer from Hotel to Airport
+room_type:Deluxe Double or Twin Room with Balcony
+room_type:Deluxe Double or Twin Room with Pool
+room_type:Deluxe Double or Twin Room with Pool Access
+room_type:Deluxe Double or Twin Room with Pool Access and Free WiFi
+room_type:Deluxe Double or Twin Room with Pool View
+room_type:Deluxe Double or Twin Room with Sea View
+room_type:Deluxe Family
+room_type:Deluxe Family 3 People
+room_type:Deluxe Family Pool view
+room_type:Deluxe Family Room
+room_type:Deluxe Garden King, Guest room, 1 King, Garden view, Balcony
+room_type:Deluxe Garden View
+room_type:Deluxe Garden View Wing
+room_type:Deluxe Ground Terrace
+room_type:Deluxe King
+room_type:Deluxe King Bed
+room_type:Deluxe King Bed Balcony
+room_type:Deluxe King Lagoon View
+room_type:Deluxe King Pool View
+room_type:Deluxe King Room
+room_type:Deluxe King Room with Sea View
+room_type:Deluxe King with Pool Access
+room_type:Deluxe Lagoon View King
+room_type:Deluxe Lagoon View Twin
+room_type:Deluxe Large Double
+room_type:Deluxe Ocean View
+room_type:Deluxe Ocean View, Guest room, 1 King, Balcony
+room_type:Deluxe One Bedroom Suite with Whirlpool Bath
+room_type:Deluxe Palm Double Room
+room_type:Deluxe Paradise Wing Original
+room_type:Deluxe Partial Sea View
+room_type:Deluxe Pavilion
+room_type:Deluxe Pool Access
+room_type:Deluxe Pool Access Room
+room_type:Deluxe Pool Access with View
+room_type:Deluxe Pool Access, 1 Bedroom Suite, 1 King, Sea view
+room_type:Deluxe Pool View
+room_type:Deluxe Pool View, Guest room, 1 King, Balcony
+room_type:Deluxe Queen Room
+room_type:Deluxe Room
+room_type:Deluxe Room - 1 King Bed
+room_type:Deluxe Room, 1 King, Pool View, Balcony
+room_type:Deluxe Room, 2 Double Beds, Garden View, Balcony
+room_type:Deluxe Sea View
+room_type:Deluxe Sea View Pool Access
+room_type:Deluxe Sea View Room
+room_type:Deluxe Sea View with Balcony
+room_type:Deluxe Suite
+room_type:Deluxe Suite with Sea View
+room_type:Deluxe Twin
+room_type:Deluxe Twin Room
+room_type:Deluxe Twin Room with Balcony
+room_type:Deluxe Twin Room with Sea View
+room_type:Deluxe Villa
+room_type:Deluxe Villa Pool Access
+room_type:Deluxe Villa Twin bed
+room_type:Deluxe for 3 people
+room_type:Deluxe for at least 15 years old
+room_type:Deluxe in hotel
+room_type:Deluxe room with pool access
+room_type:Deluxe with Balcony
+room_type:Deluxe with Pool Access and Sea View
+room_type:Deluxe, Guest room, 2 Double, Sea view, Pool access
+room_type:Dibuk Family Suite
+room_type:Double Room
+room_type:Double Room with Balcony
+room_type:Double Room with Garden View
+room_type:Double Room with Mountain View
+room_type:Double Room with Pool View
+room_type:Double Room with Private Bathroom
+room_type:Duplex Pool Suite
+room_type:Economy
+room_type:Economy Double Room
+room_type:Economy room with bunk beds
+room_type:Elite
+room_type:Executive Suite
+room_type:Family Premier Room, 1 King and 2 Double, Pool view, Balcony
+room_type:Family Room with Balcony for 4 People (Free Round Trip Airport Transfer)
+room_type:Family Suite
+room_type:Family Suite with Adult bunk bed
+room_type:Family Suite with Two Bedroom
+room_type:Garden Cabana Pool Access, Guest room, 1 King, Garden view
+room_type:Garden Villa with Private Pool
+room_type:Grand Classic Room
+room_type:Grand Deluxe
+room_type:Grand Deluxe Pool View
+room_type:Grand Deluxe Pool View Room
+room_type:Grand Deluxe Pool Villa
+room_type:Grand Deluxe Sea View with Breakfast
+room_type:Grand Deluxe Suite
+room_type:Grand Jacuzzi Deluxe
+room_type:Grand Ocean View
+room_type:Grand Pool Access
+room_type:Grand Sea View
+room_type:Grand Suite Thani Wing
+room_type:Grand Villa, 3 Bedrooms, Sea View with Private Pool
+room_type:Grand deluxe room including breakfast
+room_type:Guest room, king bed, view
+room_type:Honeymoon Pool Villa
+room_type:Junior Suite
+room_type:Junior Suite Double or Twin with Ocean View
+room_type:Junior Suite, Thanee Wing
+room_type:King Deluxe Sea View
+room_type:King Room
+room_type:King Room Lagoon View
+room_type:King Room with Pool View
+room_type:Lagoon View 1 King Bed
+room_type:Laguna
+room_type:Leisure King Bed Non-Smoking
+room_type:Leisure King Bed Smoking
+room_type:Luxury Beachfront Suite
+room_type:Ma Relax Double or Twin Room
+room_type:Ocean Front King Bed
+room_type:Ocean Pavilion
+room_type:Ocean View Suite
+room_type:One Bedroom Pool Villa
+room_type:One Bedroom Suite
+room_type:One Bedroom Villa with Private Pool
+room_type:One bedroom suite
+room_type:One-Bedroom Suite
+room_type:One-Bedroom Suite with Spa Bath
+room_type:Outdoor Jacuzzi Suite
+room_type:Pearl Bed Suite
+room_type:Pearl Deluxe
+room_type:Pearl Shell Suites
+room_type:Penthouse
+room_type:Penthouse (3 adults)
+room_type:Plunge Pool Villa
+room_type:Pool Pavilion
+room_type:Pool Villa
+room_type:Pool Villa 1 Bedroom
+room_type:Pool Villa 3 Bedroom Lagoon View
+room_type:Pool Villa Sea View
+room_type:Pool Villa with Loft
+room_type:Pool, garden
+room_type:Poolview Busakorn Studio King
+room_type:Premier
+room_type:Premier Deluxe
+room_type:Premier Deluxe Double or Twin Room with Sea View
+room_type:Premier Pool Access
+room_type:Premier Suite with Hot Tub
+room_type:Premier Twin
+room_type:Premium Deluxe
+room_type:Private Double Room
+room_type:Private Pool Suite
+room_type:Private Pool Suite with Sea View
+room_type:Private Pool Villa with Sea View
+room_type:Quadruple Room
+room_type:Queen Room with Balcony (No Window)
+room_type:Queen Room with Pool View
+room_type:Royal Ocean View Suite
+room_type:SALA Villa with Private Pool
+room_type:SPA Deluxe
+room_type:Safari Deluxe
+room_type:Safari Deluxe Double or Twin Room
+room_type:Sala Villa with Private Pool
+room_type:Sea View Suite
+room_type:Signature Pool Villa
+room_type:Signature Two-Bedroom Pool Villa
+room_type:Single Bed in 8-Bed Dormitory Room
+room_type:Single Room
+room_type:Sky Suite with Plunge Pool
+room_type:Small Double Room (Free Round Trip Airport Transfer)
+room_type:Standard Deluxe No Window
+room_type:Standard Deluxe double room without Window
+room_type:Standard Double Room
+room_type:Standard Double Room (Free Round Trip Airport Transfer)
+room_type:Standard Double or Twin Room
+room_type:Standard Double or Twin Room with Balcony
+room_type:Standard Queen Room
+room_type:Standard Room
+room_type:Standard Twin Room
+room_type:Standard Twin Room with Balcony
+room_type:Standard room with 3 beds
+room_type:Standard room with Jacuzzi
+room_type:Standard room with air conditioning
+room_type:Standard room with city view
+room_type:Standard room without window
+room_type:Studio Apartment
+room_type:Studio Double
+room_type:Studio Suite
+room_type:Studio with Terrace
+room_type:Suite Mountain View
+room_type:Suite with Fan
+room_type:Suite with Pool View
+room_type:Suite with Sea View
+room_type:Sunset Ocean Suite
+room_type:Super Deluxe
+room_type:Super Deluxe Room with Sea View
+room_type:Super Deluxe Sea View
+room_type:Super Deluxe with Pool Access Balcony
+room_type:Superior
+room_type:Superior Deluxe Double Room
+room_type:Superior Double
+room_type:Superior Double Room
+room_type:Superior Double Room with Ocean View
+room_type:Superior Double Room with Partial Ocean Facing View
+room_type:Superior Double Room with Sea View
+room_type:Superior Double or Twin Room
+room_type:Superior Double or Twin Room with Balcony
+room_type:Superior Double or Twin Room with Pool View
+room_type:Superior Garden View
+room_type:Superior Jacuzzi Suite
+room_type:Superior King
+room_type:Superior King Bed
+room_type:Superior King Room
+room_type:Superior King Room - Non-Smoking
+room_type:Superior Ocean Side
+room_type:Superior Ocean View
+room_type:Superior Pool View
+room_type:Superior Pool Wing
+room_type:Superior Room
+room_type:Superior Room with Balcony
+room_type:Superior Room with Jacuzzi
+room_type:Superior Room with Two Queen Beds
+room_type:Superior Room, 1 King, Pool View, Balcony
+room_type:Superior Single Room
+room_type:Superior Suite
+room_type:Superior Suite with Sea View
+room_type:Superior Twin
+room_type:Superior Twin Pool View
+room_type:Superior Twin Room
+room_type:Superior Villa with Garden View
+room_type:Superior for 3 people
+room_type:Superior no view
+room_type:Superior room
+room_type:Superior room with pool view
+room_type:Superior with balcony
+room_type:Superior with window
+room_type:Superior, Guest room, 1 King
+room_type:The Memory Superior
+room_type:The Mood Suite
+room_type:The rooms have access to the swimming pool.
+room_type:Three Bedroom Signature Pool Villa
+room_type:Tint Standard King Bed
+room_type:Twin Room with Shared Bathroom
+room_type:Two Bedroom Pool Villa
+room_type:Two Bedroom Suite
+room_type:Two Bedroom Suite Sea View
+room_type:Two Bedroom Villa
+room_type:Two-Bedroom Family Suite
+room_type:Two-Bedroom House
+room_type:Two-Bedroom Pool Villa with Garden View
+room_type:Two-Bedroom Pool Villa with Sea View
+room_type:Two-Bedroom Residence
+room_type:Villa
+room_type:apartment
+room_type:beach front room
+room_type:cheap beach
+room_type:standard
+room_type:standard room
+room_type:studio
+room_type:vintage, partial sea view
