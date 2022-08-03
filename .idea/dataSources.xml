@@ -8,5 +8,12 @@
       <jdbc-url>mongodb://digitaltwin.thddns.net:2527</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="@34.143.191.17" uuid="7227b0ba-0ce6-4674-943f-334819fa4bcc">
+      <driver-ref>mongo</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb://34.143.191.17:3389</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
