@@ -3,11 +3,12 @@
 import uuid
 
 import requests
+import requests_cache
 from anytree import AnyNode, LevelOrderGroupIter
 from anytree.exporter import JsonExporter, UniqueDotExporter
 
 ASSOC_RULE_BASE_URL = "http://digitaltwin.thddns.net:2528"
-
+requests_cache.install_cache('assoc_cache')
 
 def accumulate_node(node, factors, depth=0):
     if depth > 10:
