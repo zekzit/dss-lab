@@ -20,13 +20,10 @@ def generate_decision_tree(mcda_type, factors, manual_weights, hotel_name, rule_
     elif mcda_type == "pairwise":
         computed_weights = calculate_weight_ahp(manual_weights)
 
-    sorted_weights = [weight for (weight, factor) in
-                      sorted(zip(computed_weights, factors), key=lambda pair: pair[0], reverse=True)]
-    sorted_factors = [factor for (weight, factor) in
-                      sorted(zip(computed_weights, factors), key=lambda pair: pair[0], reverse=True)]
+    sorted_weights = [weight for (weight, factor) in zip(computed_weights, factors)]
+    sorted_factors = [factor for (weight, factor) in zip(computed_weights, factors)]
 
     accumulate_node(root, sorted_factors, hotel_name=hotel_name, rule_year=rule_year, rule_month=rule_month)
     apply_freq_by_path(root, hotel_name=hotel_name, DB=DB)
     apply_weight_by_node_level(root, sorted_weights)
     return root
-
